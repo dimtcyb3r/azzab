@@ -10,7 +10,7 @@ clear
 echo $indigo
 date
 echo $dark"================================================="
-echo $red"              DARK RABBIT SECURITY"
+echo $red"             CIREBON PROGRAMMER COMUNITY"
 echo $dark"================================================="
 echo $purple"          TOOLS DESIGN FOR ATTACKING"
 echo $cyan"                Author : Suhandi"
